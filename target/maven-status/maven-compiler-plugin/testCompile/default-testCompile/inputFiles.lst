@@ -1,4 +1,10 @@
-/Users/m19402/eclipse-workspace/deltadental/src/test/java/com/testrunner/TestRunner.java
-/Users/m19402/eclipse-workspace/deltadental/src/test/java/com/deltadental/homepage/HomePageLocators.java
-/Users/m19402/eclipse-workspace/deltadental/src/test/java/stepDefinitions/StepDef.java
-/Users/m19402/eclipse-workspace/deltadental/src/test/java/com/example/google/GoogleSearch.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/deltadental/homepage/HomePageLocators.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/example/ddns/SearchDentist.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/stepDefinitions/StepDef.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/testrunner/TestRunner.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/dd/pagelocators/HomePageLocators.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/dd/pageobjects/HomePage.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/dd/pageobjects/SearchResults.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/dd/pageobjects/FindDentist.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/dd/pagelocators/SearchDentistLocators.java
+/Users/kishorebramhamdam/Test/deltadental/src/test/java/com/dd/pagelocators/SearchResultsLocator.java

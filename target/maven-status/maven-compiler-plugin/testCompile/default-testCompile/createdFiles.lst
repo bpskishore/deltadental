@@ -1,4 +1,10 @@
-com/testrunner/TestRunner.class
-com/example/google/GoogleSearch.class
-stepDefinitions/StepDef.class
+com/dd/pagelocators/SearchResultsLocator.class
+com/example/ddns/SearchDentist.class
+com/dd/pageobjects/HomePage.class
 com/deltadental/homepage/HomePageLocators.class
+com/testrunner/TestRunner.class
+com/dd/pagelocators/SearchDentistLocators.class
+com/dd/pageobjects/SearchResults.class
+com/dd/pageobjects/FindDentist.class
+com/dd/pagelocators/HomePageLocators.class
+stepDefinitions/StepDef.class
