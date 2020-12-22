@@ -5,3 +5,5 @@ target/
 .tar.gz
 .exe
 .zip
+.classpath	
+.settings
